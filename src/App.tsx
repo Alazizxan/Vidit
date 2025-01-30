@@ -18,7 +18,7 @@ function App() {
       username: 'AlAzizxan.exe',
       description: 'Cyber security tips and hacking tutorials',
       icon: <Instagram className="w-6 h-6 sm:w-7 sm:h-7 stroke-[1.5]" />,
-      url: 'https://instagram.com/alazixan.exe',
+      url: 'https://instagram.com/alazizxan.exe',
       color: 'from-cyan-500 to-cyan-600',
       glow: 'shadow-cyan-500/50'
     },
