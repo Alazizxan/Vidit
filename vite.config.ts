@@ -11,4 +11,7 @@ export default defineConfig({
     host: true, // 0.0.0.0 ni ruxsat beradi
     port: 5173, // Kerakli portni o‘rnating (default: 5173)
   },
+  build: {
+    outDir: 'dist', // Build natijalari 'dist' papkaga tushishi kerak
+  }
 });
